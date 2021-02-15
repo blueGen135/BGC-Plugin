@@ -1,0 +1,10 @@
+{
+    "name": "hp/bgc-plugin",
+    "description": "Awesome wordpress plugin",
+    "type": "project",
+    "license": "GPL",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": ".inc"}
+    }
+}
